@@ -1,12 +1,5 @@
 # Master-basic-PHP
 "Learn the fundamentals of PHP programming, including syntax, variables, control structures, and basic functions. Perfect for beginners aiming to build dynamic web applications."
-![image](https://github.com/user-attachments/assets/44c17776-2515-4d10-838a-6b4eeddc48b3)
-![image](https://github.com/user-attachments/assets/0edc4d0d-572d-429d-a867-d2f17b53a023)
-![image](https://github.com/user-attachments/assets/6b32652e-bbd4-4ff4-ac35-c44b1f9a88e7)
-![image](https://github.com/user-attachments/assets/a96ca078-6b0f-4338-b730-6b0801b92456)
-![image](https://github.com/user-attachments/assets/c20d1965-c269-44fc-b853-94a1d69d7b24)
-![image](https://github.com/user-attachments/assets/56781f11-05ba-4c1a-86e7-dc42570caca1)
-![image](https://github.com/user-attachments/assets/161c9905-1e2a-4c55-88dd-80b5b443ea3d)
-![image](https://github.com/user-attachments/assets/aaadc4d9-8b86-42e5-8bd3-1b1cb5bff6a9)
-![image](https://github.com/user-attachments/assets/8da81e0c-ca65-4087-af74-01e43f858e49)
+![image](https://github.com/user-attachments/assets/8783d4ac-4172-45b8-a558-fd7c049553ee)
+![image](https://github.com/user-attachments/assets/4eeecb4e-19fc-40ce-b3e7-3da0d06e584d)
 
